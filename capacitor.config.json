@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cocktail-recipe",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
